@@ -193,10 +193,6 @@
                 ],
     "deleted":  [
                     "backend/llm/default_proxy_client.py",
-                    "backend/logs_system/db/tail_logs.db",
-                    "backend/logs_system/tail_logs.db",
-                    "backend/system_vault/system_secrets.db",
-                    "backend/system_vault/vault.sys.key",
                     "backend/temp/characters/__init__.py",
                     "backend/temp/code_suite/__init__.py",
                     "backend/temp/generic/__init__.py",
