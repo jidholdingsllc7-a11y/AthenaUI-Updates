@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4",
+  "version": "3.8.5",
   "changed": [
     "backend/api/routes/admin.py",
     "backend/api/routes/athena_link.py",
@@ -190,7 +190,7 @@
     "backend/voice/service.py",
     "backend/workspace/service.py",
     "frontend/dist/assets/index-B94QXFo8.css",
-    "frontend/dist/assets/index-cMe5y5JD.js",
+    "frontend/dist/assets/index-CMLwKfhI.js",
     "frontend/dist/index.html",
     "athena_bridge/ui/recorder.py"
   ],
