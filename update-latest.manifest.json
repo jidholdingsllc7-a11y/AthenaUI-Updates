@@ -1,5 +1,5 @@
 {
-  "version": "3.8.6",
+  "version": "3.8.7",
   "changed": [
     "backend/api/routes/admin.py",
     "backend/api/routes/athena_link.py",
@@ -121,6 +121,8 @@
     "backend/tools/fs/file_write.py",
     "backend/tools/fs/file_write_proposal.py",
     "backend/tools/fs/list_allowed_directories.py",
+    "backend/tools/memory/memory_recall_details.py",
+    "backend/tools/memory/memory_recall_summary.py",
     "backend/tools/memory/memory_search.py",
     "backend/tools/registry/categories.py",
     "backend/tools/registry/loader.py",
@@ -190,7 +192,7 @@
     "backend/voice/service.py",
     "backend/workspace/service.py",
     "frontend/dist/assets/index-B94QXFo8.css",
-    "frontend/dist/assets/index-sCzkc2FV.js",
+    "frontend/dist/assets/index-dZsiR5zJ.js",
     "frontend/dist/index.html",
     "athena_bridge/ui/recorder.py"
   ],
